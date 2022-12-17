@@ -1,0 +1,47 @@
+#carasoule{
+    overflow: hidden;
+    height: 100%;
+  }
+#c1{
+    font-family: Poppins;
+    font-size: 25px;
+    color: #d7d7d7;
+    letter-spacing: normal;
+    font-variant: normal;
+    font-feature-settings: normal;
+}
+#c2{
+    font-family: Poppins;
+    font-size: 80px;
+    color: #ffff;
+    letter-spacing: normal;
+    font-variant: normal;
+    font-feature-settings: normal;
+}
+#nav-texts{
+    font-family: Poppins;
+    font-size: 18px;
+    color:rgba(255, 255,255, 0.78)
+    letter-spacing: normal;
+    font-variant: normal;
+    font-feature-settings: normal;
+}
+#nav-items.nav-links{
+    font-family: Poppins;
+    font-size: 18px;
+    color:rgba(255, 255,255, 0.78)
+    letter-spacing:normal;
+    font-variant: normal;
+    font-feature-settings: normal;
+}
+#background-image{
+
+    background: url('bgimg.jpg');
+}
+
+.preload * {
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -ms-transition: none !important;
+    -o-transition: none !important;
+  }
